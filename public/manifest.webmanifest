@@ -1,0 +1,19 @@
+{
+  "name": "HATOP - Hub Antar Toko & Ojek Pickup",
+  "short_name": "HATOP",
+  "description": "Platform distribusi sarana pertanian dan pengiriman pickup terjadwal di Kabupaten Toba.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f8f1",
+  "theme_color": "#145a32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/hatop-logo.jpeg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
